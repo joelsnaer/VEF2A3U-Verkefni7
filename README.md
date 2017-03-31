@@ -22,8 +22,8 @@ Keyrir php kóða til að eyða session-inu þannig notandinn loggast út
 ## DELETE.PHP
 Keyrir php kóða til að eyða myndum út úr gagnagrunninum fyrir sérstaka notanda
 
-## Myndir folder
+## MYNDIR FOLDER
 Folder sem geymir allar myndirnar
 
-## Styles.css
+## STYLES.CSS
 Er tómt css skjal sem ég ýtti óvart á github
