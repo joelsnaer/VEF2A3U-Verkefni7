@@ -24,3 +24,6 @@ Keyrir php kóða til að eyða myndum út úr gagnagrunninum fyrir sérstaka no
 
 ## Myndir folder
 Folder sem geymir allar myndirnar
+
+## Styles.css
+Er tómt css skjal sem ég ýtti óvart á github
